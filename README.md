@@ -82,7 +82,4 @@ Would you like to play again? (y/n): n
 Thanks for playing!
 
 
----
 
-You can copy this entire text into the README.md of your repository.
-It gives a clear, professional, and detailed explanation of your project.
